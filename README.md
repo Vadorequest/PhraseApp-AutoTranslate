@@ -5,6 +5,7 @@ This Chrome plugin will automatically generate the machine translation in the ht
 
 To install it
 =============
+* Download the [***"PhraseApp AutoTranslate.crx"***](https://github.com/Vadorequest/PhraseApp-AutoTranslate/archive/master.zip) file. _You don't need other files._
 * **Open Chrome browser** (Or other based Chromium browser such as Chromium, Dragon, etc.)
 * Go to the [extensions](chrome://extensions/) or using the interface (settings => extensions)
 * Enable ***Developer mode*** to authorize access to custom scripts. (Not coming from Chrome Web Store)
