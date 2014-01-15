@@ -8,7 +8,7 @@ To install it
 * **Open Chrome browser** (Or other based Chromium browser such as Chromium, Dragon, etc.)
 * Go to the [extensions](chrome://extensions/) or using the interface (settings => extensions)
 * Enable ***Developer mode*** to authorize access to custom scripts. (Not coming from Chrome Web Store)
-* Drag and drop the PhraseApp AutoTranslate.crx located in the main directory to the chrome extensions page.
+* Drag and drop the ***"PhraseApp AutoTranslate.crx"*** located in the main directory to the chrome extensions page.
 * Accept the installation and refresh your PhraseApp web page.
 
 Dev & Debug
