@@ -3,6 +3,10 @@ PhraseApp-AutoTranslate
 
 This Chrome plugin will automatically generate the machine translation in the https://phraseapp.com/ website when it's available.
 
+Google Web Store
+================
+[Available on the Store](https://chrome.google.com/webstore/detail/phraseapp-autotranslate/kjgaiikfgafcdjmlkmoohobgdbfbigao?utm_source=chrome-ntp-icon)
+
 To install it
 =============
 * Download the [***"PhraseApp AutoTranslate.crx"***](https://github.com/Vadorequest/PhraseApp-AutoTranslate/archive/master.zip) file. _You don't need other files._
@@ -16,7 +20,6 @@ Dev & Debug
 ===========
 * You have access to the .pem file, so you can [update the script](http://developer.chrome.com/extensions/packaging.html)
 * You can enable the DEBUG mode in the script to see the messages into the console.
-* You can create an official Chrome Extension, I don't see the interest because it's basically a plugin for our team, but if you want to share it, go ahead. Just tell me! (Issues)
 
 
 Design
